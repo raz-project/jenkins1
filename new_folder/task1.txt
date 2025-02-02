@@ -1,3 +1,13 @@
-update to task1.txt
-new changes in new branch
-new changes and merging from merge-branch
+<<<<<<< HEAD
+<<<<<<< HEAD
+[hello]
+=======
+[hello]
+>>>>>>> [new_branch]
+=======
+change that make conflict from feature-branch
+=======
+conflit from new_brance
+>>>>>>> new_branch
+new changes to merge
+>>>>>>> feature-branch
