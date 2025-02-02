@@ -1,1 +1,2 @@
 conflit from new_brance
+merge new_branch
