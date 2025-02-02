@@ -3,3 +3,4 @@ change that make conflict from feature-branch
 =======
 conflit from new_brance
 >>>>>>> new_branch
+new changes to merge
